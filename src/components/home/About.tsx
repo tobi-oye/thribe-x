@@ -32,6 +32,8 @@ function About({ ...props }: BoxProps) {
                             Navigating life can be a lonely and strenuous task. However, going
                             through life with a community that supports, celebrates, prays and helps
                             you grow is a blessing.
+
+                            Amennnnn
                         </Text>
                     </Box>
                 </GridItem>
